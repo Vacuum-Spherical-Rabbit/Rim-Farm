@@ -30,4 +30,4 @@ If you are interested in **Rim Farm**, we welcome your participation in developm
 |-------------------|--------------------|
 | Pump control      | ✅ Completed       |
 | Camera recording  | ✅ Completed       |
-| Email subscription| 🕒 In progress     |
+| Email subscription| ✅ Completed       |
